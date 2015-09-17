@@ -1,0 +1,16 @@
+{
+  "name": "4.4-git-profile",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Miguelramirezjr/GitHub",
+  "authors": [
+    "Miguel Ramirez Jr <derock8888@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
